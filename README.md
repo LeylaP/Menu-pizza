@@ -7,5 +7,6 @@
 
 `kod girmek`<br/>
 
-[google linki](http://www.google.com)
-![github]()
+[google linki](http://www.google.com) <br/>
+
+![github](https://github.com/LeylaP/Menu-pizza/blob/master/GitHub-Mark.png)
